@@ -1,0 +1,58 @@
+
+.footer-contact {
+  background-color: #cdcdcd;
+  height: 100px;
+}
+
+.footer-contact-container {
+  max-width: 1000px;
+  margin:0 auto;
+}
+
+.list-nav-footer {
+  float: left;
+  margin-top: 42px;
+
+}
+
+.list-nav-footer a {
+  text-decoration: none;
+  color: $gris-oscuro;
+  font-size: 21px;
+  padding: 8.33px 10px;
+
+}
+
+.list-nav-footer li {
+  list-style: none;
+  display: inline-block;
+}
+
+.list-nav-footer a:hover {
+  color: $turquesa;
+}
+
+.social-nets {
+    margin-top: 33px;
+}
+
+.social-nets p {
+  position: relative;
+  font-size: 20px;
+  top: 23px;
+  color: #5b5b5b;
+  display: inline-block;
+  margin-left: 55px;
+}
+
+.social-net-facebook {
+  display: inline-block;
+  margin-left: 147px;
+  margin-top: -42px;
+}
+
+.social-net-twitter {
+  display: inline-block;
+  margin-left: 8px;
+  margin-top: -42px;
+}

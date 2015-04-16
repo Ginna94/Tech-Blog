@@ -1,25 +1,56 @@
+.title-tech-blog-main {
+  font-size: 50px;
+  color: #fff;
+  height: 31px; }
+
+.title-social-main {
+  font-size: 20px;
+  top: -12px;
+  position: relative; }
+
+.nav-main {
+  display: inline-block;
+  margin-left: -47px; }
+
 .list-nav-main li {
-  display: inline-block; }
+  display: inline-block;
+  list-style: none; }
+
+.list-nav-main a:hover {
+  background-color: #43b8c9; }
 
 .list-nav-main {
   float: left;
-  margin-top: 93px;
-  margin-left: 191px; }
+  margin-top: 8px;
+  margin-top: -1px; }
 
 .list-nav-main a {
   text-decoration: none;
-  color: #FCFFFD; }
+  color: #FCFFFD;
+  font-size: 21px;
+  padding: 8.33px 10px; }
 
 .social-medias-main {
-  display: inline-block;
-  float: right;
-  margin-top: 143px;
-  margin-right: 238px; }
+  left: 742px;
+  top: 50px;
+  color: #fff;
+  position: relative;
+  margin-left: 76px; }
+
+.social-medias-main h3 {
+  display: inline-block; }
+
+.social-medias-main img {
+  display: inline-block; }
 
 .header-nav-main {
   background-color: #00A0A9;
   height: 320px;
   overflow: hidden; }
+
+.overlay {
+  max-width: 1280px;
+  margin: 0 auto; }
 
 .container {
   max-width: 1280px;
@@ -41,5 +72,118 @@
 
 .article-content-info-main img {
   width: 100%; }
+
+.content-sidebar h3 {
+  color: #00A0A9;
+  border-bottom: 3px solid;
+  margin: 40px 0 20px 0;
+  font-size: 20px; }
+
+.read-more {
+  text-decoration: none;
+  color: #43B8C9;
+  font-weight: 600;
+  margin-left: 36px; }
+
+.input-sidebar {
+  background-color: #d4d4d4;
+  border: none;
+  padding: 13px 43px 13px 13px;
+  color: #848484;
+  margin-right: 10px; }
+
+.article-content-img {
+  height: 188px;
+  width: 230px;
+  background-color: #D4D4D4;
+  display: inline-block;
+  float: left; }
+
+.article-content-img-publicidad {
+  float: none; }
+
+.external-news-article-text {
+  color: #ff7b00; }
+
+.external-news a {
+  margin-top: 20px;
+  font-size: 18px;
+  text-decoration: none;
+  color: #000; }
+
+.content-info {
+  padding-bottom: 32px;
+  margin-bottom: 26px; }
+
+.article-content-new {
+  width: 61%;
+  display: inline-block;
+  margin-left: 37px; }
+
+.content-info hr {
+  margin-top: 40px; }
+
+.footer-contact {
+  background-color: #cdcdcd;
+  height: 100px; }
+
+.footer-contact-container {
+  max-width: 1000px;
+  margin: 0 auto; }
+
+.list-nav-footer {
+  float: left;
+  margin-top: 42px; }
+
+.list-nav-footer a {
+  text-decoration: none;
+  color: #5b5b5b;
+  font-size: 21px;
+  padding: 8.33px 10px; }
+
+.list-nav-footer li {
+  list-style: none;
+  display: inline-block; }
+
+.list-nav-footer a:hover {
+  color: #00A0A9; }
+
+.social-nets {
+  margin-top: 33px; }
+
+.social-nets p {
+  position: relative;
+  font-size: 20px;
+  top: 23px;
+  color: #5b5b5b;
+  display: inline-block;
+  margin-left: 55px; }
+
+.social-net-facebook {
+  display: inline-block;
+  margin-left: 147px;
+  margin-top: -42px; }
+
+.social-net-twitter {
+  display: inline-block;
+  margin-left: 8px;
+  margin-top: -42px; }
+
+.button-square {
+  background-color: #2aa9e0;
+  border: none;
+  padding: 13px;
+  color: #fff; }
+
+.button-pill {
+  background-color: #43b8c9;
+  color: #FCFFFD;
+  border: none;
+  width: 173px;
+  height: 40px;
+  position: relative;
+  top: -30px;
+  left: 275px;
+  border-radius: 5px; }
 
 /*# sourceMappingURL=styles.css.map */

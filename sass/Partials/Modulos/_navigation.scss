@@ -1,29 +1,50 @@
 
+.nav-main {
+  display: inline-block;
+  margin-left: -47px;
+}
 
 .list-nav-main li {
-
   display: inline-block;
+  list-style: none;
   
 }
 
-.list-nav-main {
-	float:left;
-  margin-top: 93px;
-  margin-left: 191px;
+.list-nav-main a:hover {
+  background-color: $celeste;
 
+}
+
+.list-nav-main {
+  float: left;
+  margin-top: 8px;
+  margin-top: -1px;
+  
 }
 
 .list-nav-main a {
   text-decoration: none;
   color: $blanco;
+  font-size: 21px;
+  padding: 8.33px 10px;
 
 }
 
 .social-medias-main {
+  left: 742px;
+  top: 50px;
+  color: #fff;
+  position: relative;
+  margin-left: 76px;
+}
 
-	display: inline-block;
-  float:right;
-  margin-top: 143px;
-  margin-right: 238px;
+.social-medias-main h3 {
+  display: inline-block;
+
+}
+
+.social-medias-main img {
+  display: inline-block;
+
 }
 
